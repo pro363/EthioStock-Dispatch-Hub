@@ -1,0 +1,6 @@
+{
+  "name": "EthioStock & Dispatch Hub",
+  "description": "Enterprise B2B Wholesale Inventory, FEFO Batch Tracking, Smart Order Commitment, and Last-Mile Van Dispatch System for Addis Ababa Distributors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
